@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Open Manga Book silhouette with glowing accent -->
+    <path
+        android:fillColor="#FF6B35"
+        android:pathData="M30,34 C38,30 48,32 54,36 C60,32 70,30 78,34 L78,72 C70,68 60,70 54,74 C48,70 38,68 30,72 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,38 C40,35 48,37 52,40 L52,69 C48,66 40,64 34,67 Z M74,38 C68,35 60,37 56,40 L56,69 C60,66 68,64 74,67 Z" />
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M52,38 L56,38 L56,74 L52,74 Z" />
+</vector>
